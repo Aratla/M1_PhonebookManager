@@ -20,8 +20,7 @@ A phonebook manager is a software program that enables users to easily store and
 ## Cost and Features
  - Complexity 
  - Memory management
- - Storage
- - 
+ - Storage 
 
 ##  Defining our System
 
