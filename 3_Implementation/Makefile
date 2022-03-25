@@ -62,7 +62,7 @@ coverageCheck:$(BUILD)
 # 	$(RM) test_phonebook1.c
 
 doc:
-	make -C doc
+	make -C do
 $(BUILD_DIR):
 	mkdir $(BUILD_DIR)
 
